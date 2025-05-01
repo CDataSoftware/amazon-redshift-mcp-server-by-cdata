@@ -1,5 +1,6 @@
 # amazon-redshift-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Amazon Redshift
+
 :heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Amazon Redshift (beta)](https://www.cdata.com/download/download.aspx?sku=FRZK-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Amazon Redshift supported by the [CData JDBC Driver for Amazon Redshift](https://www.cdata.com/drivers/redshift/jdbc).
